@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="dc.js-develop/dc.js-develop/web/css/dc.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="style.css">
+<link rel="stylesheet" type="text/css" href="leaflet.css">
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.4/mapbox.css' rel='stylesheet' />
+</head>
+<body>
+<h1>Start Network</h1>
+<h2>ERR 2</h2>
+<!--Dashboard-->
+  <div class="row">
+    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="Region"></div> -->
+    <div class="col-lg-7 col-md-7 col-s-7 col-xs-12" id="map"></div>
+    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="Sector"></div> -->
+    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="bubble-overlay"></div> -->
+    <div class="col-lg-5 col-md-5 col-s-5 col-xs-12" id="Agency"></div>
+    <!-- <div class="col-lg-4 col-md-6 col-s-6 col-xs-12" id="AthensMap"></div> -->
+  </div>
+<!-->
+<!-->
+<div class="row">
+  <div class="col-lg-12">
+    <table class="table table-hover" id="dc-data-table">
+      <thead>
+        <tr class="header">
+          <th>Agency</th>
+          <th>Sector</th>
+          <th>Country</th>
+          <th>Province</th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+</div>
+
+<Credits-->
+
+<!--><div class="row">
+  <div class="col-lg-12">
+    <p></br></p>
+  </div>
+</div>
+<!-->
+<!--
+<div class="row">
+  <div class="col-lg-12">
+    <p id="Signature">Coded by Kenny Macfadyen. </br> ACF UK
+    </p>
+    <p id="theBubble">The Bubble</p>
+    <p>Thanks to Simon B Johnson for his trailblazing work on 3Ws</p>
+  </div>
+</div>
+
+<!Load scripts-->
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="d3.min.js"></script>
+<script src="leaflet.js"></script>
+<script src="MarkerCluster.js"></script>
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.4/mapbox.js'></script>
+<script src="topojson.min.js"></script>
+<script src="crossfilter-master/crossfilter-master/crossfilter.min.js"></script>
+<script src="dc.js-develop/dc.js-develop/dc.min.js"></script>
+<script src="dc.leaflet.js"></script>
+<!--Load JQuery before Bootstrap-->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+<!--JavaScript for the  page-->
+<script src="script6.js"></script>
+
+</body>

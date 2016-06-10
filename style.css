@@ -1,0 +1,81 @@
+#map {
+  height: 600px;
+}
+
+body{
+font-family: Arial;
+color: #BE4647;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  width: 90px;
+  height: 30x;
+  padding: 2px;
+  font: 12px sans-serif;
+  color: black;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  opacity: 0;
+}
+
+div.tooltip2 {
+  position: absolute;
+  text-align: center;
+  width: 90px;
+  height: 30x;
+  padding: 2px;
+  font: 12px sans-serif;
+  color: black;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+  opacity: 0;
+}
+
+
+h2{
+  color: black;
+}
+
+h3{
+  color: black;
+}
+
+#Signature{
+  font-weight: bold;
+  color: #BE4647;
+}
+
+#theBubble {
+  font-style: italic;
+  font-weight: bold;
+  color: #BE4647;
+}
+
+p{
+  color: grey;
+}
+
+.q0-9 { fill:rgb(247,251,255); }
+.q1-9 { fill:rgb(222,235,247); }
+.q2-9 { fill:rgb(198,219,239); }
+.q3-9 { fill:rgb(158,202,225); }
+.q4-9 { fill:rgb(107,174,214); }
+.q5-9 { fill:rgb(66,146,198); }
+.q6-9 { fill:rgb(33,113,181); }
+.q7-9 { fill:rgb(8,81,156); }
+.q8-9 { fill:rgb(8,48,107); }
+
+
+["#e41a1c","#377eb8","#4daf4a"]
+["#e41a1c","#377eb8","#4daf4a","#984ea3"]
+["#e41a1c","#377eb8","#4daf4a","#984ea3","#ff7f00"]
+["#e41a1c","#377eb8","#4daf4a","#984ea3","#ff7f00","#ffff33"]
+["#e41a1c","#377eb8","#4daf4a","#984ea3","#ff7f00","#ffff33","#a65628"]
+["#e41a1c","#377eb8","#4daf4a","#984ea3","#ff7f00","#ffff33","#a65628","#f781bf"]
+["#e41a1c","#377eb8","#4daf4a","#984ea3","#ff7f00","#ffff33","#a65628","#f781bf","#999999"]

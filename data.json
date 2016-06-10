@@ -1,7 +1,7 @@
 [
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -9,7 +9,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Dodekanissa",
    "Latitude":39.130354,
@@ -17,7 +17,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.995716,
@@ -25,7 +25,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -33,7 +33,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -41,7 +41,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Dodekanissa",
    "Latitude":39.130354,
@@ -49,7 +49,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -57,7 +57,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -65,7 +65,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.995716,
@@ -73,7 +73,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -81,7 +81,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -89,7 +89,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica - Dodekanissa",
    "Latitude":37.995716,
@@ -97,7 +97,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.995716,
@@ -105,7 +105,7 @@
  },
  {
    "Agency":"ActionAid",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.995716,
@@ -113,7 +113,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -121,7 +121,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -129,7 +129,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Nutrition",
+   "Sector":"Nutrition",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -137,7 +137,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"WaSH",
+   "Sector":"",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -145,7 +145,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -153,7 +153,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Food security & livelihoods",
+   "Sector":"Food security & livelihoods",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -161,7 +161,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Other (Please specify)",
+   "Sector":"Other (Please specify)",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -169,7 +169,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Other (Please specify)",
+   "Sector":"Other (Please specify)",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -177,7 +177,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -185,7 +185,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -193,7 +193,7 @@
  },
  {
    "Agency":"CRS",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -201,7 +201,7 @@
  },
  {
    "Agency":"DRC",
-   "Sector (e.g. WaSH)":"WASH",
+   "Sector":"WASH",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -209,7 +209,7 @@
  },
  {
    "Agency":"DRC",
-   "Sector (e.g. WaSH)":"Shelter",
+   "Sector":"Shelter",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -217,7 +217,7 @@
  },
  {
    "Agency":"DRC",
-   "Sector (e.g. WaSH)":"Camp Management",
+   "Sector":"Camp Management",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -225,7 +225,7 @@
  },
  {
    "Agency":"DRC",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -233,7 +233,7 @@
  },
  {
    "Agency":"DRC",
-   "Sector (e.g. WaSH)":"FSL",
+   "Sector":"FSL",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -241,7 +241,7 @@
  },
  {
    "Agency":"DRC",
-   "Sector (e.g. WaSH)":"Shelter",
+   "Sector":"Shelter",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -249,7 +249,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Health",
+   "Sector":"Health",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -257,7 +257,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Health",
+   "Sector":"Health",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -265,7 +265,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Health",
+   "Sector":"Health",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -273,7 +273,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"WaSH",
+   "Sector":"WASH",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -281,7 +281,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"WaSH",
+   "Sector":"WASH",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -289,7 +289,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"WaSH",
+   "Sector":"WASH",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -297,7 +297,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Health",
+   "Sector":"Health",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -305,7 +305,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Health",
+   "Sector":"Health",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -313,7 +313,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Health",
+   "Sector":"Health",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -321,7 +321,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"WaSH",
+   "Sector":"WASH",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -329,7 +329,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"WaSH",
+   "Sector":"WASH",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -337,7 +337,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"WaSH",
+   "Sector":"WASH",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -345,7 +345,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -353,7 +353,7 @@
  },
  {
    "Agency":"IMC",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -361,7 +361,7 @@
  },
  {
    "Agency":"Internews",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.9839,
@@ -369,7 +369,7 @@
  },
  {
    "Agency":"Internews",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.9839,
@@ -377,7 +377,7 @@
  },
  {
    "Agency":"Internews",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.9839,
@@ -385,7 +385,7 @@
  },
  {
    "Agency":"Internews",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.9839,
@@ -393,7 +393,7 @@
  },
  {
    "Agency":"Internews",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.9839,
@@ -401,7 +401,7 @@
  },
  {
    "Agency":"Internews",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.9839,
@@ -409,7 +409,7 @@
  },
  {
    "Agency":"Internews",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"Greece",
    "Province":"Attica",
    "Latitude":37.9839,
@@ -417,7 +417,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -425,7 +425,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"Camp Management",
+   "Sector":"Camp Management",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -433,7 +433,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -441,7 +441,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -449,7 +449,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -457,7 +457,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -465,7 +465,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -473,7 +473,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -481,7 +481,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -489,7 +489,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -497,7 +497,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -505,7 +505,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"Camp Management",
+   "Sector":"Camp Management",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -513,7 +513,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -521,7 +521,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -529,7 +529,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -537,7 +537,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -545,7 +545,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -553,7 +553,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"Other (Please specify)",
+   "Sector":"Other (Please specify)",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -561,7 +561,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -569,7 +569,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -577,7 +577,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -585,7 +585,7 @@
  },
  {
    "Agency":"NRC",
-   "Sector (e.g. WaSH)":"",
+   "Sector":"",
    "Country":"",
    "Province":"",
    "Latitude":37.97945,
@@ -593,7 +593,7 @@
  },
  {
    "Agency":"Samaritan's Purse",
-   "Sector (e.g. WaSH)":"Food security & livelihoods",
+   "Sector":"Food security & livelihoods",
    "Country":"Greece",
    "Province":"Kilkis",
    "Latitude":41.121608,
@@ -601,7 +601,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -609,7 +609,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Protection",
+   "Sector":"Protection",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -617,7 +617,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -625,7 +625,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -633,7 +633,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Non-country specific",
    "Province":"",
    "Latitude":37.97945,
@@ -641,7 +641,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Non-country specific",
    "Province":"",
    "Latitude":37.97945,
@@ -649,7 +649,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -657,7 +657,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -665,7 +665,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -673,7 +673,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Non-country specific",
    "Province":"",
    "Latitude":37.97945,
@@ -681,7 +681,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Non-country specific",
    "Province":"",
    "Latitude":37.97945,
@@ -689,7 +689,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"Athens",
    "Latitude":37.97945,
@@ -697,7 +697,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,
@@ -705,7 +705,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Non-country specific",
    "Province":"",
    "Latitude":37.97945,
@@ -713,7 +713,7 @@
  },
  {
    "Agency":"Translators Without Borders",
-   "Sector (e.g. WaSH)":"Other",
+   "Sector":"Other",
    "Country":"Greece",
    "Province":"",
    "Latitude":37.97945,

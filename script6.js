@@ -14,7 +14,7 @@
         zoom: 6
       });
 
-    L.mapbox.tileLayer("mapbox.pirates", {
+    L.mapbox.tileLayer("mapbox.light", {
 
     })
     .addTo(map);

@@ -2,9 +2,10 @@
     fill: black;
 }
 
-.dc-chart g.row rect {
-    fill: #1E90FF;
-}
+/*.dc-chart g.row rect {
+    fill: steelblue;
+
+}*/
 
 #reset{
   float: right;

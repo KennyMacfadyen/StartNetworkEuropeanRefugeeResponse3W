@@ -99,12 +99,11 @@
           .width(200)
           .height(300)
           .dimension(byAgency)
-          .colors(d3.scale.category20b())
+          .colors(["cadetblue"])
           .group(byAgencyGroup)
           .title(function (d){
                 return d.value;
                 })
-          .title(function(d){return d.value;})
           .elasticX(true)
           .xAxis().ticks(4);
 
@@ -114,7 +113,7 @@
           .height(200)
           .dimension(byProvince)
           .group(byProvinceGroup)
-          .colors(d3.scale.category20c())
+          .colors(["gray"])
           .title(function (d){return d.value;})
           .elasticX(true)
           .xAxis().ticks(4);

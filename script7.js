@@ -84,7 +84,7 @@
           .brushOn(true);
 
     dc.rowChart("#Sector .Sector", groupname)
-          .margins({top: 5, left: 10, right: 30, bottom: 30})
+          .margins({top: 5, left: 10, right: 10, bottom: 30})
           .width(200)
           .height(300)
           .dimension(bySector)

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<head>
+<meta charset="utf-8">
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<link href="dc.js-develop/dc.js-develop/web/css/dc.css" rel="stylesheet">
+
+<link rel="stylesheet" type="text/css" href="leaflet.css">
+<link rel="stylesheet" type="text/css" href="css/leaflet.markercluster.css">
+<link href='https://api.tiles.mapbox.com/mapbox.js/v2.2.4/mapbox.css' rel='stylesheet' />
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+<div class="container">
+<h1>Start Network</h1>
+<h2>European Refugee Response: Second Tranche (ERR2)</h2>
+</div>
+<!--Dashboard-->
+<div class="container">
+  <!-- <div class="dc-data-count" style="float: left;">
+<h2>New Zealand Earthquakes
+<span>
+<span class="filter-count"></span>
+selected out of
+<span class="total-count"></span>
+records |
+<a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a>
+</span>
+</h2>
+</div> -->
+  <div class="row" >
+                <div  class="col-lg-4 col-md-4"  data-step="7" data-intro="Click on the map to filter by site" data-position="left" id="map">
+                    <h4>Activity Locations</h4>
+                    <div  class="map" id="map"> </div>
+                </div>
+            <div  class="col-lg-2 col-md-2"  data-step="7" data-intro="Click on the chart to filter by agency" data-position="left" id="Agency">
+                <h4>Agency</h4>
+                <div  class="Agency" id="Agency"> </div>
+            </div>
+                <div  class="col-lg-2 col-md-2"  data-step="7" data-intro="Click on the chart to filter by agency" data-position="left" id="Sector">
+                    <h4>Sector</h4>
+                    <div  class="Sector" id="Sector"> </div>
+                </div>
+
+                <div class="col-lg-2 col-md-2"  data-step="7" data-position="left" id="Province">
+                    <h4>Region</h4>
+                    <div  class="Province" id="Province"> </div>
+                </div>
+                <!-- <div class="col-lg-2 col-md-2"  data-step="7" data-position="left" id="Summary">
+                    <p>The Start Network european refugee response second tranche is focused in Athens, the border area with Macedonia, Lesvos island.
+                      Oxfam is  conducting activities in Serbia.
+                </div> -->
+
+                <!-- <div  class="col-lg-6 col-md-6"  data-step="7" data-intro="Click on the chart to filter by agency" data-position="left" id="Indicator">
+                    <h4>Indicator</h4>
+                    <div  class="Indicator" id="Indicator"> </div>
+                </div> -->
+
+    </div>
+  <div class="row">
+    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="Region"></div> -->
+    <!-- <div class="map" id="map"></div> -->
+    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="Sector"></div> -->
+    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="bubble-overlay"></div> -->
+<!--
+    <div class="col-lg-5 col-md-5 col-s-5 col-xs-12" id="pie"></div>
+    <div class="col-lg-4 col-md-6 col-s-6 col-xs-12" id="AthensMap"></div> -->
+  </div>
+</div>
+<!-->
+<!-->
+<!-- <div class="container">
+<div class="row">
+  <div class="col-lg-12">
+    <table class="dc-data-table" id="dc-data-table">
+      <thead>
+        <tr class= "buffer">
+          <th>.</th>
+        </tr>
+        <tr class="header">
+          <th>Agency</th>
+          <th>Sector</th>
+          <th>Country</th>
+          <th>Province</th>
+        </tr>
+      </thead>
+    </table>
+  </div>
+</div> -->
+
+<div class="container">
+<div class="row">.</div>
+<div class="row">.</div>
+<div class="row">
+  <div class="col-lg-12">
+    <!-- <p id="Signature">Coded by Kenny Macfadyen. </br> ACF UK  </p> -->
+    <!-- <p id="theBubble">The Bubble</p> -->
+    <!-- <p>Thanks to Simon B Johnson for his trailblazing work on 3Ws</p> -->
+  </div>
+</div>
+</div>
+<!--><div class="row">
+  <div class="col-lg-12">
+    <p></br></p>
+  </div>
+</div>
+<!-->
+<!--
+
+
+<!Load scripts-->
+<script src="http://code.jquery.com/jquery.js"></script>
+<script src="d3.min.js"></script>
+
+<script src="bootstrap.min.js"></script>
+
+<script src="leaflet.js"></script>
+<script src="leaflet.markercluster.js"></script>
+
+<script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.4/mapbox.js'></script>
+<script src="topojson.min.js"></script>
+
+
+<script src="crossfilter.min.js"></script>
+
+<script src="dc.leaflet.js"></script>
+<script src="dc.js"></script>
+<!--Load JQuery before Bootstrap-->
+
+<script type="text/javascript" src="d3.js"></script>
+<script type="text/javascript" src="crossfilter.js"></script>
+<script type="text/javascript" src="dc.js"></script>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="leaflet.js"></script>
+<script type="text/javascript" src="leaflet.markercluster.js"></script>
+<script type="text/javascript" src="dc.leaflet.js"></script>
+
+
+
+<!--JavaScript for the  page-->
+
+<!--Optional-->
+<script src="script7.js"></script>
+</body>

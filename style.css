@@ -2,6 +2,14 @@
     fill: black;
 }
 
+.dc-chart g.row rect {
+    fill: #1E90FF;
+}
+
+#reset{
+  float: right;
+}
+
 #map {
   height: 450px;
   width: 550px;

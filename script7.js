@@ -84,7 +84,7 @@
           .brushOn(true);
 
     dc.rowChart("#Sector .Sector", groupname)
-          .margins({top: 5, left: 20, right: 30, bottom: 30})
+          .margins({top: 5, left: 10, right: 30, bottom: 30})
           .width(200)
           .height(300)
           .dimension(bySector)
@@ -99,8 +99,8 @@
           .width(200)
           .height(300)
           .dimension(byAgency)
+          .colors(d3.scale.category20b())
           .group(byAgencyGroup)
-          .colors(d3.scale.category10())
           .title(function (d){
                 return d.value;
                 })
@@ -119,7 +119,13 @@
           .elasticX(true)
           .xAxis().ticks(4);
 
-
+    $('#reset').on('click', function (){
+      dc.filterAll(groupname);
+      dc.redrawAll(groupname);
+      return false;
+    })
+      dc.renderAll(groupname);
+    }
 
 
 
@@ -155,14 +161,6 @@
     //       .xAxis().ticks(4);
     //  var scores = xf.dimension(function(d) { return d.scoreclass; });
     //  var scoresGroup = scores.group().reduceCount(function (d) { return d.scoreclass; });
-
-    $('#reset').on('click', function (){
-      dc.filterAll(groupname);
-      dc.redrawAll(groupname);
-      return false;
-    })
-      dc.renderAll(groupname);
-    }
     //
     //
     //

@@ -89,7 +89,7 @@
           .height(300)
           .dimension(bySector)
           .group(bySectorGroup)
-          .colors(d3.scale.category10())
+          .colors([ "#9467bd", "#7f7f7f", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b", "#1f77b4",  "#e377c2", "#bcbd22", "#17becf"])
           .title(function(d){return d.value;})
           .ordering(function(d) { return -d.value; })
           .elasticX(true)
@@ -127,6 +127,9 @@
     })
       dc.renderAll(groupname);
     }
+
+
+          // .colors(d3.scale.category10())
 
 
 

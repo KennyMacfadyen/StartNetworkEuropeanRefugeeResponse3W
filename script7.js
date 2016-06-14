@@ -105,7 +105,6 @@
           .title(function (d){
                 return d.value;
                 })
-          .ordering(function(d) { return -d.value; })
           .elasticX(true)
           .xAxis().ticks(4);
 

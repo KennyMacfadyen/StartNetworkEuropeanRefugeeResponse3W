@@ -91,6 +91,7 @@
           .group(bySectorGroup)
           .colors(d3.scale.category10())
           .title(function(d){return d.value;})
+          .ordering(function(d) { return -d.value; })
           .elasticX(true)
           .xAxis().ticks(4);
 
@@ -104,6 +105,7 @@
           .title(function (d){
                 return d.value;
                 })
+          .ordering(function(d) { return -d.value; })
           .elasticX(true)
           .xAxis().ticks(4);
 
@@ -115,6 +117,7 @@
           .group(byProvinceGroup)
           .colors(["gray"])
           .title(function (d){return d.value;})
+          .ordering(function(d) { return -d.value; })
           .elasticX(true)
           .xAxis().ticks(4);
 

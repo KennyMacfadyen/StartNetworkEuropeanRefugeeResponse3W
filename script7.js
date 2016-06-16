@@ -111,7 +111,7 @@
     dc.rowChart("#Province .Province", groupname)
           .margins({top: 5, left: 10, right: 10, bottom: 50})
           .width(200)
-          .height(200)
+          .height(400)
           .dimension(byProvince)
           .group(byProvinceGroup)
           .colors(["gray"])

@@ -9,7 +9,7 @@
     // .openPopup();
     //
 
-    d3.tsv("ERR2Interim_16Jun_KM.tsv", function(data) {
+    d3.tsv("ERR2Interim_22June_KM.tsv", function(data) {
      // drawMarkerSelect(data);
       drawMarkerArea(data);
     });
@@ -46,7 +46,7 @@
       var activities = xf.dimension(function(d) { return d.geo; });
       var activitiesGroup = activities.group().reduceCount();
 
-      var dataTable = dc.dataTable(".dc-data-table");
+
 
       var tableData = crossfilter(data);
       var all = tableData.groupAll();
@@ -54,6 +54,7 @@
         return d.Agency;
       });
 
+      var dataTable = dc.dataTable(".dc-data-table");
 
       dataTable.width(960).height(5000)
       .dimension(dimension)
@@ -89,10 +90,11 @@
           .height(300)
           .dimension(bySector)
           .group(bySectorGroup)
-          .colors([ "#9467bd", "#7f7f7f", "#ff7f0e", "#2ca02c", "#d62728", "#8c564b", "#1f77b4",  "#e377c2", "#bcbd22", "#17becf"])
+          .colors([ "#9467bd", "#ff7f0e", "#2ca02c", "#d62728", "#7f7f7f","#8c564b", "#1f77b4",  "#e377c2", "#bcbd22", "#17becf"])
           .title(function(d){return d.value;})
-          .ordering(function(d) { return -d.value; })
-          .elasticX(true)
+          // .ordering(function(d) { return -d.value; })
+          // .ordering([ "Protection", "Other", "", "Comms","FSL","Shelter", "Social Mobalisation",  "WASH", "Camp Management", "Nutrition"])
+          // .elasticX(true)
           .xAxis().ticks(4);
 
     dc.rowChart("#Agency .Agency", groupname)
@@ -105,6 +107,7 @@
           .title(function (d){
                 return d.value;
                 })
+          .ordering(function(d) { return -d.value; })
           .elasticX(true)
           .xAxis().ticks(4);
 

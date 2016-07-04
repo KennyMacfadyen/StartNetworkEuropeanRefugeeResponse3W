@@ -18,23 +18,9 @@
     </br>Click the Reset All button to reset all filters.</br></br>
       <p><b>please find a summary of all projects <a href="https://start-network.box.com/s/6fv6n6bx2tkj3jfk5g8kj87x5ezx2p42">here</a>.</b>
       Site coded by: <a href="https://twitter.com/KennyMacfadyen">Kenny Macfadyen</a>
-    <!-- <div clas="col-lg-4"><p id="credits">Author: <a href="https://twitter.com/KennyMacfadyen">Kenny Macfadyen</a></p></div></br> -->
 
 <a class="reset btn btn-primary btn-sm" id="reset" href="javascript:dc.filterAll();dc.redrawAll();">Reset All</a></p></p>
-<!-- </div> -->
-<!--Dashboard-->
-<!-- <div class="container"> -->
-  <!-- <div class="dc-data-count" style="float: left;">
-<h2>New Zealand Earthquakes
-<span>
-<span class="filter-count"></span>
-selected out of
-<span class="total-count"></span>
-records |
-<a href="javascript:dc.filterAll(); dc.renderAll();">Reset All</a>
-</span>
-</h2>
-</div> -->
+
   <div class="row" >
                 <div  class="col-lg-4 col-md-4"  data-step="7" data-intro="Click on the map to filter by site" data-position="left" id="map">
                     <h4>Activity Locations</h4><h5>filter by zoom</h5>
@@ -53,86 +39,18 @@ records |
                     <h4>Region</h4><h5>(Where)</h5>
                     <div  class="Province" id="Province"> </div>
                 </div>
-                <!-- <div class="col-lg-2 col-md-2"  data-step="7" data-position="left" id="Summary">
-                    <p>The Start Network european refugee response second tranche is focused in Athens, the border area with Macedonia, Lesvos island.
-                      Oxfam is  conducting activities in Serbia.
-                </div> -->
-
-                <!-- <div  class="col-lg-6 col-md-6"  data-step="7" data-intro="Click on the chart to filter by agency" data-position="left" id="Indicator">
-                    <h4>Indicator</h4>
-                    <div  class="Indicator" id="Indicator"> </div>
-                </div> -->
 
     </div>
   <div class="row">
-    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="Region"></div> -->
-    <!-- <div class="map" id="map"></div> -->
-    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="Sector"></div> -->
-    <!-- <div class="col-lg-5 col-md-6 col-s-6 col-xs-12" id="bubble-overlay"></div> -->
-<!--
-    <div class="col-lg-5 col-md-5 col-s-5 col-xs-12" id="pie"></div>
-    <div class="col-lg-4 col-md-6 col-s-6 col-xs-12" id="AthensMap"></div> -->
   </div>
 </div>
-<!-->
-<!-->
-<!-- <div class="container">
-<div class="row">
-  <div class="col-lg-12">
-    <table class="dc-data-table" id="dc-data-table">
-      <thead>
-        <tr class= "buffer">
-          <th>.</th>
-        </tr>
-        <tr class="header">
-          <th>Agency</th>
-          <th>Sector</th>
-          <th>Country</th>
-          <th>Province</th>
-        </tr>
-      </thead>
-    </table>
-  </div>
-</div> -->
-
-<!-- <div class="container">
-<div class="row" id="buffer">.</div>
-<div class="row" id="buffer">.</div>
-<div class="row" id="buffer">.</div> -->
-<!-- <div class="row" id="credits"><p id="credits">Author: <a href="https://twitter.com/KennyMacfadyen">Kenny Macfadyen</a></p></div> -->
-<!-- <div class="row" id="sources"><div class="col-lg-6"></br><p id="sources">  This webpage uses D3.js, Bootstrap, Crossfilter, DC.js, DC-leaflet-marker and Leaflet</p></div>
-<div clas="col-lg-4"><p id="credits">Author: <a href="https://twitter.com/KennyMacfadyen">Kenny Macfadyen</a></p></div></div>
-</div> -->
-<!-- <div class="row" id="credits"><p id="credits">For similar visualisations check out:
-  <a href="https://simonbjohnson.github.io">Simon B Johnson</a> and
-  <a href="https://github.com/yurukov">Yurokov</a>.</p>
-</div> -->
-<!-- <div class="row">
-<div class="col-lg-12"> -->
-    <!-- <p id="Signature">Coded by Kenny Macfadyen. </br> ACF UK  </p> -->
-    <!-- <p id="theBubble">The Bubble</p> -->
-    <!-- <p>Thanks to Simon B Johnson for his trailblazing work on 3Ws</p> -->
-
-<!-- </div>
-</div> -->
-<!--><div class="row">
-  <div class="col-lg-12">
-    <p></br></p>
-  </div>
-</div>
-<!-->
-<!--
-
-
-<!Load scripts-->
+<!--Load scripts: Be sure to load JQuery before Bootstrap-->
 <script src="http://code.jquery.com/jquery.js"></script>
 <script src="d3.min.js"></script>
-
 <script src="bootstrap/js/bootstrap.min.js"></script>
 
 <script src="leaflet/leaflet.js"></script>
 <script src="leaflet.markercluster/dist/leaflet.markercluster.js"></script>
-
 <script src='https://api.tiles.mapbox.com/mapbox.js/v2.2.4/mapbox.js'></script>
 <script src="topojson.min.js"></script>
 
@@ -141,20 +59,15 @@ records |
 
 <script src="dc.leaflet.js-master/dc.leaflet.js"></script>
 <script src="dc.js-develop/dc.js-develop/dc.js"></script>
-<!--Load JQuery before Bootstrap-->
 
 <script type="text/javascript" src="js/d3.js"></script>
 <script type="text/javascript" src="js/crossfilter.js"></script>
 <script type="text/javascript" src="js/dc.js"></script>
-<script type="text/javascript" src="js/jquery.js"></script>
+<!-- <script type="text/javascript" src="js/jquery.js"></script> -->
 <script type="text/javascript" src="js/leaflet.js"></script>
 <script type="text/javascript" src="js/leaflet.markercluster.js"></script>
 <script type="text/javascript" src="js/dc.leaflet.js"></script>
 
-
-
 <!--JavaScript for the  page-->
-
-<!--Optional-->
-<script src="script7.js"></script>
+<script src="script.js"></script>
 </body>

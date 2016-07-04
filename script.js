@@ -1,4 +1,4 @@
-d3.tsv("ERR2Interim_22June_KM.tsv", function(data) {
+d3.tsv("data.tsv", function(data) {
  // drawMarkerSelect(data);
   drawMarkerArea(data);
 });

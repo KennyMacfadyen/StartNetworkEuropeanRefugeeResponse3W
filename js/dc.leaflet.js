@@ -22,7 +22,7 @@ dc.leafletChart = function(_chart) {
 */
 
   var _tiles=function(map) {
-    L.tileLayer('http://otile2.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png', {
+    L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/streets-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2Vuem9zdXp1a2kiLCJhIjoiY2lwOWt3dGdlMDAyM25kbmxrd251Nzd1ZyJ9.OrDe4GKOUIn2s10-X4YxoA', {
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     }).addTo(map);
   }

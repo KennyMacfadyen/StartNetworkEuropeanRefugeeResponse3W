@@ -1,3 +1,4 @@
+
 .dc-chart g.row text {
     fill: black;
 }
@@ -11,12 +12,13 @@
   float: right;
 }
 
+
 #reset{
   float: right;
 }
 
 #map {
-  height: 450px;
+  height: 440px;
   width: 550px;
 }
 
@@ -35,6 +37,7 @@
 #Province {
   height: 200px;
   width: 200px;
+  font-family: Arial;
 }
 
 #dc-data-table {
@@ -49,6 +52,17 @@
   height: 600px;
   width: 600px;
   )*/
+
+#bold{
+  font-weight: bold;
+}
+#notBold{
+  font-weight: normal;
+}
+
+/*#logo{
+  float: right;
+}*/
 
 body{
 font-family: Arial;
@@ -90,7 +104,7 @@ h1{
 }
 
 h2{
-  color: black;
+  color: #DC4747;
 }
 
 h3{
@@ -118,6 +132,11 @@ p.id{
 
 p.buffer{
   color: white;
+}
+
+img{
+  height: 90px;
+  margin-top: 10px;
 }
 
 /*.q0-9 { fill:rgb(247,251,255); }

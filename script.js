@@ -45,6 +45,7 @@ function drawMarkerArea(data) {
 
   var dataTable = dc.dataTable(".dc-data-table");
 
+
   dataTable.width(960).height(5000)
   .dimension(dimension)
   .group(function(d) {return "Who What Where"})
@@ -54,7 +55,6 @@ function drawMarkerArea(data) {
     function(d) {return d.Country;},
     function(d) {return d.Province;}
   ]);
-
 
   dc.leafletMarkerChart("#map .map", groupname)
       .dimension(activities)
@@ -72,6 +72,9 @@ function drawMarkerArea(data) {
         return d.Agency;
       })
       .brushOn(true);
+      // .featureKeyAccessor(function(feature){
+      //           return feature.properties[config.joinAttribute];
+      //       });
 
 dc.rowChart("#Sector .Sector", groupname)
       .margins({top: 5, left: 10, right: 10, bottom: 30})

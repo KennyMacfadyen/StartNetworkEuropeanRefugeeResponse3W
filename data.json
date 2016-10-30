@@ -3,14 +3,6 @@
    "Agency":"ActionAid",
    "Sector":"Protection",
    "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
    "Province":"Dodekanissa",
    "Latitude":39.130354,
    "Longitude":26.530764
@@ -19,97 +11,9 @@
    "Agency":"ActionAid",
    "Sector":"Protection",
    "Country":"Greece",
-   "Province":"Attica",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
    "Province":"Dodekanissa",
    "Latitude":39.130354,
    "Longitude":26.530764
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica - Dodekanissa",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica",
-   "Latitude":37.995716,
-   "Longitude":23.592918
- },
- {
-   "Agency":"ActionAid",
-   "Sector":"Protection",
-   "Country":"Greece",
-   "Province":"Attica",
-   "Latitude":37.995716,
-   "Longitude":23.592918
  },
  {
    "Agency":"CRS",
